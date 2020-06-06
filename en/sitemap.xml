@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bettr.news/index.html</loc>
+    <loc>https://bettrnews.github.io/index.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bettr.news/fr/index.html"
+                href="https://bettrnews.github.io/fr/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bettr.news/index.html"
+                href="https://bettrnews.github.io/index.html"
                 />
   </url>
   
   <url>
-    <loc>https://bettr.news/</loc>
+    <loc>https://bettrnews.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bettr.news/fr/"
+                href="https://bettrnews.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bettr.news/"
+                href="https://bettrnews.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://bettr.news/tags/</loc>
+    <loc>https://bettrnews.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bettr.news/fr/tags/"
+                href="https://bettrnews.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bettr.news/tags/"
+                href="https://bettrnews.github.io/tags/"
                 />
   </url>
   
