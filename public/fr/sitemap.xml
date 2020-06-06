@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bettr.news/fr/index.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bettr.news/index.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bettr.news/fr/index.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bettr.news/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bettr.news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bettr.news/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bettr.news/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bettr.news/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bettr.news/fr/tags/"
+                />
+  </url>
+  
+</urlset>
